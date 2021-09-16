@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "http://joaocarlosalves.dev/react/oqv/static/css/main.c165aa12.chunk.css",
+    "main.js": "http://joaocarlosalves.dev/react/oqv/static/js/main.ecdf6e84.chunk.js",
+    "main.js.map": "http://joaocarlosalves.dev/react/oqv/static/js/main.ecdf6e84.chunk.js.map",
+    "runtime-main.js": "http://joaocarlosalves.dev/react/oqv/static/js/runtime-main.91c2485f.js",
+    "runtime-main.js.map": "http://joaocarlosalves.dev/react/oqv/static/js/runtime-main.91c2485f.js.map",
+    "static/js/2.fb0b0674.chunk.js": "http://joaocarlosalves.dev/react/oqv/static/js/2.fb0b0674.chunk.js",
+    "static/js/2.fb0b0674.chunk.js.map": "http://joaocarlosalves.dev/react/oqv/static/js/2.fb0b0674.chunk.js.map",
+    "index.html": "http://joaocarlosalves.dev/react/oqv/index.html",
+    "static/css/main.c165aa12.chunk.css.map": "http://joaocarlosalves.dev/react/oqv/static/css/main.c165aa12.chunk.css.map",
+    "static/js/2.fb0b0674.chunk.js.LICENSE.txt": "http://joaocarlosalves.dev/react/oqv/static/js/2.fb0b0674.chunk.js.LICENSE.txt",
+    "static/media/style.css": "http://joaocarlosalves.dev/react/oqv/static/media/bg.65e5ba8b.png",
+    "static/media/logo.6a5acccf.png": "http://joaocarlosalves.dev/react/oqv/static/media/logo.6a5acccf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91c2485f.js",
+    "static/js/2.fb0b0674.chunk.js",
+    "static/css/main.c165aa12.chunk.css",
+    "static/js/main.ecdf6e84.chunk.js"
+  ]
+}
